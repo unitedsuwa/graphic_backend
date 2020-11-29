@@ -1,0 +1,7 @@
+python-language-server
+isort
+ipdb
+pylint
+pytest
+
+-r requirements.txt
